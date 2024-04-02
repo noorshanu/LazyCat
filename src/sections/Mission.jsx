@@ -26,7 +26,7 @@ function Mission() {
           </a>
 
           <a
-            href="#"
+            href="https://t.me/lazycatso"
             target="_blank"
             className=" text-xl text-white hover:scale-125 bg-[#000000] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
           >
