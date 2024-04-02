@@ -28,7 +28,7 @@ function Navbar() {
 
         {/* Wallet Connect button */}
         <div className="md:flex items-center">
-            <a href="/" className="bg-[#c74786] rounded-full text-white px-4 py-2 text-xl font-kid  font-semibold ">Buy Now</a>
+            <a href="/" className="bg-[#000000] rounded-full text-white px-4 py-2 text-xl font-kid  font-semibold ">Buy Now</a>
         </div>
 
         {/* Hamburger menu for mobile */}

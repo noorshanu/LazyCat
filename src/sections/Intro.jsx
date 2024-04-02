@@ -13,7 +13,7 @@ const Intro = () => {
 
         <div className="  px-4  py-6  text-center border-[#000000] relative z-50 rounded-2xl  ">
           <h1 className=" text-2xl sm:text-5xl font-bold text-center my-3">
-          MEOWCAT is the only cat in dog's meme world. She combines Memes, Trades, and Rewards Purr-fectly!
+          Lazy Cat is all about Memes, NFT, and Rewards in Solana's Lazy World!
           </h1>
 
         <p></p>
