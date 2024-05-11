@@ -15,9 +15,9 @@ function AboutUs() {
           </h1>
 
           <p className=" text-lg sm:text-xl ">
-            Meow! Welcome to Lazy Cat, where laziness meets high gains! Lazy Cat
+            Meow! Welcome to SleepyCat, where laziness meets high gains! SleepyCat
             embodies the spirit of all things cute, silly, and oh-so-lazy. Our
-            founder, Lazy Cat herself, is here to revolutionize the meme world
+            founder, SleepyCat herself, is here to revolutionize the meme world
             with her hilarious creations and laid-back approach to making money.
           </p>
         </div>
