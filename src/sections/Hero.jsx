@@ -19,14 +19,14 @@ function Hero() {
 
         <div className=" flex justify-center gap-5 items-center">
           <a
-            href="http://twitter.com/lazy_catt9"
+            href="http://twitter.com/sleepy_catt1"
             className=" text-xl text-white bg-[#000000] hover:scale-125 hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
           >
             <BsTwitterX />
           </a>
 
           <a
-            href="https://t.me/lazycatso"
+            href="https://t.me/sleepycatso"
             target="_blank"
             className=" text-xl text-white hover:scale-125 bg-[#000000] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
           >
