@@ -10,7 +10,7 @@ function Mission() {
         </div>
 
         <div className=" bg-white border-2   py-8 px-4 rounded-2xl shadow-xl max-w-2xl ">
-          <h1 className=" font-kid font-bold text-3xl sm:text-5xl my-3">Join LazyCat</h1>
+          <h1 className=" font-kid font-bold text-3xl sm:text-5xl my-3">JoinSleepyCat</h1>
 
           <p className=" text-lg sm:text-xl "> 
           Join Lazy Cat on our journey to save the Solana meme world, one meme at a time! Meow
