@@ -13,7 +13,7 @@ const Intro = () => {
 
         <div className="  px-4  py-6  text-center border-[#000000] relative z-50 rounded-2xl  ">
           <h1 className=" text-2xl sm:text-5xl font-bold text-center my-3">
-          Lazy Cat is all about Memes, NFT, and Rewards in Solana's Lazy World!
+          SleepyCat is all about Memes, NFT, and Rewards in Solana's Lazy World!
           </h1>
 
         <p></p>
